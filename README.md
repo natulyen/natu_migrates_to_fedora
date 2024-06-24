@@ -5,7 +5,7 @@ A journey of migrating from Windows to Linux (Fedora 40)
 > I'm currently preparing which steps I need to document.
 > I'll keep adding stuff and the actual notes as well.
 
-Rough first plan for sequence of events:
+Rough sequence of events:
 - [ ] Downloading ISO (Fedora Workstation 40)
 - [ ] Preparing USB Stick (Ventoy + ISO)
 - [ ] OS Installation (+ Storage preparation (Partitions, File System) )
